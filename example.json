@@ -11,7 +11,7 @@
           "correct": "아시아",
           "explanation": "아시아는 면적과 인구 모두 세계 최대입니다.",
           "hint": "인구도 많고, 중국과 인도가 있는 곳.",
-          "difficulty": 3
+          "difficulty": "easy"
         },
         {
           "question": "HTML은 무엇의 약자인가?",
@@ -24,7 +24,7 @@
           "correct": "HyperText Markup Language",
           "explanation": "HTML은 웹 페이지를 구성하는 기본 언어입니다.",
           "hint": "HyperText + 'Markup'이라는 단어 조합.",
-          "difficulty": 2
+          "difficulty": "normal"
         },
         {
           "question": "피카소는 어느 나라 출신의 화가인가?",
@@ -32,7 +32,7 @@
           "correct": "스페인",
           "explanation": "파블로 피카소는 스페인 출신의 유명한 입체파 화가입니다.",
           "hint": "바르셀로나가 있는 나라.",
-          "difficulty": 1
+          "difficulty": "hard"
         },
         {
           "question": "물의 화학식은?",
@@ -40,7 +40,7 @@
           "correct": "H2O",
           "explanation": "물은 두 개의 수소(H)와 한 개의 산소(O)로 이루어져 있습니다.",
           "hint": "수소 2개 + 산소 1개.",
-          "difficulty": 5
+          "difficulty": "hard"
         },
         {
           "question": "제작자(yulmwu)가 태어난 날은?",
@@ -48,7 +48,7 @@
           "correct": "4월 22일",
           "explanation": "제작자는 4월 22일에 태어났습니다.",
           "hint": "정답: A월 B|C일, B+C=A",
-          "difficulty": 2
+          "difficulty": "easy"
         }
     ]
 }
