@@ -1,0 +1,59 @@
+{
+    "name": "개화파의 분화",
+    "description": "",
+    "authors": [],
+    "lastUpdated": "",
+    "category": "",
+    "questions": [
+        {
+            "question": "김윤식",
+            "options": ["온건", "급진"],
+            "correct": "온건"
+        },
+        {
+            "question": "김홍집",
+            "options": ["온건", "급진"],
+            "correct": "온건"
+        },
+        {
+            "question": "어윤중",
+            "options": ["온건", "급진"],
+            "correct": "온건"
+        },
+        {
+            "question": "민영익",
+            "options": ["온건", "급진"],
+            "correct": "온건"
+        },
+        {
+            "question": "민씨세력",
+            "options": ["온건", "급진"],
+            "correct": "온건"
+        },
+        {
+            "question": "김옥균",
+            "options": ["온건", "급진"],
+            "correct": "급진"
+        },
+        {
+            "question": "박영효",
+            "options": ["온건", "급진"],
+            "correct": "급진"
+        },
+        {
+            "question": "홍영식",
+            "options": ["온건", "급진"],
+            "correct": "급진"
+        },
+        {
+            "question": "서광범",
+            "options": ["온건", "급진"],
+            "correct": "급진"
+        },
+        {
+            "question": "서재필",
+            "options": ["온건", "급진"],
+            "correct": "급진"
+        }
+    ]
+}
